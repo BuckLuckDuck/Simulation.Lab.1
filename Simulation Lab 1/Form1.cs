@@ -32,6 +32,7 @@ namespace Simulation_Lab_1
         double beta;
         double k;
         double maxY = 0;
+
         int i = 0;
         int m = 0;
 
